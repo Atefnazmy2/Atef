@@ -1,7 +1,4 @@
-# Use API to check result of creation of farm
-You can also check with an API call if your farm is created successfully.
+![image](https://user-images.githubusercontent.com/65006579/120909039-e8d76880-c670-11eb-846c-1cb14deb7d9d.png)
 
-Mainnet: https://explorer.grid.tf/explorer#api-Farms-getFarm
-Testnet: https://explorer.testnet.grid.tf/explorer#api-Farms-getFarm
-Example:
+
  
